@@ -1,0 +1,13 @@
+# utils.py
+
+def greet(name):
+    return f"Hello {name} 👋"
+
+def add(a, b):
+    return a + b
+
+def multiply(a, b):
+    return a * b
+
+def square(num):
+    return num * num
